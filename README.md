@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://korecodes.is-a.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
-  <a href="https://x.com/koredeycode" target="_blank"><img alt="X" src="https://img.shields.io/badge/extwitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://x.com/korecodes" target="_blank"><img alt="X" src="https://img.shields.io/badge/extwitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/koredeycode" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
 </p>
@@ -99,5 +99,5 @@ Currently volunteering as a **Backend Developer** at [YorubaEcho.com](https://yo
 
 - [🌍 Portfolio](https://korecodes.is-a.dev)
 - [🔗 LinkedIn](https://linkedin.com/in/koredeycode)
-- [🐦 X (Twitter)](https://x.com/koredeycode)
+- [🐦 X (Twitter)](https://x.com/korecodes)
 - [💌 Email](mailto:koredey4u@gmail.com)
