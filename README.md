@@ -54,7 +54,6 @@ Currently volunteering as a **Backend Developer** at [YorubaEcho.com](https://yo
         <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat-square&logo=tailwind-css&logoColor=white" />
         <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" />
-        <img alt="AI Image Processing" src="https://img.shields.io/badge/-AI_Image_Processing-FF6F00?style=flat-square&logo=ai&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -76,8 +75,6 @@ Currently volunteering as a **Backend Developer** at [YorubaEcho.com](https://yo
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
