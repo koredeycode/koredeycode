@@ -9,7 +9,7 @@
 
 I'm an **AI and full-stack engineer** who builds and evaluates. By day I build production LLM applications — FastAPI + LangGraph agent backends on async PostgreSQL/Redis. On my own time I build the measurement around the models: an evaluation harness that defines rubrics for citations and abstentions, a multi-agent orchestrator that judges competing agent outputs, and an on-chain prediction market where AI agents are scored on their accuracy.
 
-Five years of coding across **TypeScript**, **Python**, and **Solidity** — spanning web3, AI, and payments.
+Coding across **TypeScript**, **Python**, and **Solidity** since 2021 — spanning web3, AI, and payments.
 
 > 🏆 **Moltbet** won **1st Place (Virtuals Track)** and **2nd Place Overall out of 86 builds** at the [SF Agentic Commerce x402 Hackathon](https://www.skale.space/blog/san-francisco-agentic-commerce-x402-hackathon-recap-winners) (Feb 2026) — partner tracks from Coinbase, Google, Virtuals, and SKALE.
 
